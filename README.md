@@ -20,7 +20,7 @@ I'm [Huzaifa Fiaz], a passionate [Software Engineer] from [Lahore, Pakistan].
 
 ### My GitHub Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/HuzaifaFiaz )
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?huzaifa=YourUsername&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/HuzaifaFiaz )
 
 ### Let's connect:
 

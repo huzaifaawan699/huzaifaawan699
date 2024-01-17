@@ -30,13 +30,3 @@ I'm a passionate [Your Profession/Developer] from [Your Location], currently wor
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YourLinkedInURL)](YourLinkedInURL)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=YourTwitterURL)](YourTwitterURL)
 
-
-## My Top Projects:
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=radical)](https://github.com/YourUsername/Project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2&theme=radical)](https://github.com/YourUsername/Project2)
-
-## Let's connect:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YourLinkedInURL)](YourLinkedInURL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=YourTwitterURL)](YourTwitterURL)

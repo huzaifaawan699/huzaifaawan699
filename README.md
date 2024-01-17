@@ -1,34 +1,30 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession/Developer] from [Your Location].
+I'm [Huzaifa Fiaz], a passionate [Software Engineer] from [Lahore, Pakistan].
 
-🔭 I’m currently working on [Current Project/Job].
+🔭 I’m currently working on [DSA, React].
 
-🌱 I’m currently learning [Current Learning Focus].
+🌱 I’m currently learning [Data Structure & Algorithm].
 
-💬 Ask me about [Your Expertise].
+💬 Ask me about [Problem Solving].
 
-📫 How to reach me: [Your Email or Contact Information].
+📫 How to reach me: [huzaifamalik2023@gmail.com](mailto:huzaifamalik2023@gmail.com).
 
-⚡ Fun fact: [Interesting Fact about Yourself].
+⚡ Fun fact: [Open Source Contributions] [Continuous Learning].
 
-### Technologies & Tools:
+### Skills:
 
-- [Tech/Tool 1]
-- [Tech/Tool 2]
-- [Tech/Tool 3]
+- [Problem Solving Skills.]
+- [DSA ]
+- [Competitive programming.]
 
 ### My GitHub Stats:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/YourUsername)
 
-### My Top Projects:
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=radical)](https://github.com/YourUsername/Project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2&theme=radical)](https://github.com/YourUsername/Project2)
-
 ### Let's connect:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YourLinkedInURL)](YourLinkedInURL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=YourTwitterURL)](YourTwitterURL)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huzaifa%20Fiaz-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-fiaz-59a42a252/)
+[![Twitter](https://img.shields.io/badge/Twitter-Huzaifa%20Fiaz-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Huzaifaawan2023?t=GDLSsViSE2k4Vu6EP-ks0g&s=08)
+[![Instagram](https://img.shields.io/badge/Instagram-Huzaifa%20Fiaz-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/huzaifaawan699?igshid=NGVhN2U2NjQ0Yg==)
+[![Threads](https://img.shields.io/badge/Threads-Huzaifa%20Fiaz-blue?style=flat-square&logo=Threads&logoColor=white)](https://www.threads.net/@huzaifaawan699)

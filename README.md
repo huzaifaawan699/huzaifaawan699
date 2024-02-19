@@ -2,7 +2,7 @@
 
 I'm [Huzaifa Fiaz], a passionate [Software Engineer] from [Lahore, Pakistan].
 
-🔭 I’m currently working on [DSA, React].
+🔭 I’m currently working on [DSA].
 
 🌱 I’m currently learning [Data Structure & Algorithm].
 

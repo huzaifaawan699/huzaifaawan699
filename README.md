@@ -47,6 +47,10 @@ I'm **Huzaifa Fiaz**, a passionate **Software Engineer** from **Lahore, Pakistan
 
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/quotes-github-readme)
 
+### GitHub Streak Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifaawan699&theme=radical)](https://github.com/huzaifaawan699)
+
 ### GitHub Trophies:
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=huzaifaawan699&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)

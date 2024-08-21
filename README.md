@@ -39,6 +39,18 @@ I'm **Huzaifa Fiaz**, a passionate **Software Engineer** from **Lahore, Pakistan
 - **Continuous Learning:** Engaging with new technologies and frameworks to stay updated.
 - **Open Source Contributions:** Actively contributing to open-source projects to enhance my skills and give back to the community.
 
+### GitHub Streak Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifaawan699&theme=radical)](https://github.com/huzaifaawan699)
+
+
+
+### My GitHub Stats:
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifaawan699&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/HuzaifaFiaz)
+
+
+
 ### 🔝 Top Contributed Repo:
 
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=huzaifaawan699&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/huzaifaawan699)
@@ -47,9 +59,6 @@ I'm **Huzaifa Fiaz**, a passionate **Software Engineer** from **Lahore, Pakistan
 
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/quotes-github-readme)
 
-### GitHub Streak Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifaawan699&theme=radical)](https://github.com/huzaifaawan699)
 
 ### GitHub Trophies:
 
@@ -63,9 +72,7 @@ I'm **Huzaifa Fiaz**, a passionate **Software Engineer** from **Lahore, Pakistan
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,sql,tailwind)
 
-### My GitHub Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifaawan699&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/HuzaifaFiaz)
 
 ### Let's connect:
 

@@ -41,7 +41,7 @@ I'm **Huzaifa Fiaz**, a passionate **Software Engineer** from **Lahore, Pakistan
 
 ### Top Contribution Repository:
 
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=huzaifaawan699&repo=your-repo-name&theme=radical)](https://github.com/huzaifaawan699/your-repo-name)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=huzaifaawan699&repo=REPOSITORY_NAME&theme=radical)](https://github.com/huzaifaawan699/REPOSITORY_NAME)
 
 ### Random Dev Quote:
 

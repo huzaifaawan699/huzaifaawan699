@@ -1,26 +1,67 @@
 # Hi there! 👋
 
-I'm [Huzaifa Fiaz], a passionate [Software Engineer] from [Lahore, Pakistan].
+I'm **Huzaifa Fiaz**, a passionate **Software Engineer** from **Lahore, Pakistan**.
 
-🔭 I’m currently working on [DSA].
+🔭 I’m currently working on **DSA**.
 
-🌱 I’m currently learning [Data Structure & Algorithm].
+🌱 I’m currently learning **Data Structures & Algorithms**.
 
-💬 Ask me about [Problem Solving].
+💬 Ask me about **Problem Solving**.
 
 📫 How to reach me: [huzaifamalik2023@gmail.com](mailto:huzaifamalik2023@gmail.com).
 
-⚡ Fun fact: [Open Source Contributions] [Continuous Learning].
+⚡ Fun fact: **Open Source Contributions** and **Continuous Learning**.
 
 ### Skills:
 
-- [Problem Solving Skills.]
-- [DSA ]
-- [Competitive programming.]
+- **Problem Solving Skills**
+- **DSA**
+- **Competitive Programming**
+
+### Frontend Development:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend Development:
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Streams:
+
+- **Problem Solving:** Sharpening problem-solving skills with coding challenges and competitive programming.
+- **Continuous Learning:** Engaging with new technologies and frameworks to stay updated.
+- **Open Source Contributions:** Actively contributing to open-source projects to enhance my skills and give back to the community.
+
+### Top Contribution Repository:
+
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=huzaifaawan699&repo=your-repo-name&theme=radical)](https://github.com/huzaifaawan699/your-repo-name)
+
+### Random Dev Quote:
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/quotes-github-readme)
+
+### GitHub Trophies:
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=huzaifaawan699&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Most Used Languages:
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaawan699&layout=compact&theme=radical)](https://github.com/huzaifaawan699)
+
+### Tech Stack:
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,sql,tailwind)
 
 ### My GitHub Stats:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifaawan699&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/HuzaifaFiaz )
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifaawan699&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/HuzaifaFiaz)
 
 ### Let's connect:
 

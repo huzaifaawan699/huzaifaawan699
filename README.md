@@ -39,9 +39,9 @@ I'm **Huzaifa Fiaz**, a passionate **Software Engineer** from **Lahore, Pakistan
 - **Continuous Learning:** Engaging with new technologies and frameworks to stay updated.
 - **Open Source Contributions:** Actively contributing to open-source projects to enhance my skills and give back to the community.
 
-### Top Contribution Repository:
+### 🔝 Top Contributed Repo:
 
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=huzaifaawan699&repo=REPOSITORY_NAME&theme=radical)](https://github.com/huzaifaawan699/REPOSITORY_NAME)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=huzaifaawan699&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/huzaifaawan699)
 
 ### Random Dev Quote:
 
